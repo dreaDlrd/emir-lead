@@ -17,12 +17,12 @@ ul {
 }
 
 #header {
-  background-color: black;
-  border-bottom: 5px solid red;
+  background-color: rgb(251, 255, 22);
+  border-bottom: 5px solid rgb(94, 1, 255);
 }
 
 #header a {
-  color: white;
+  color: rgba(0, 0, 0, 0.972);
   text-decoration: none;
 }
 
@@ -38,12 +38,12 @@ ul {
   font-family: "Audiowide", sans-serif;
 }
 #branding {
-  color: white;
+  color: rgb(0, 0, 0);
   font-family: "Audiowide", sans-serif;
 }
 
 #spanColor {
-  color: #ff0000;
+  color: #000000;
 }
 #main {
   background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.6)),
